@@ -167,7 +167,7 @@ Hands-On Large Language Models: Language Understanding and Generation. Jay Alamm
 
 **《LLM from Scratch》**
 
-Build a Large Language Model (From Scratch). Sebastian Raschka.
+Build a Large Language Model (From Scratch). Sebastian Raschka. 2024.
 
 **《Reasoning from Scratch》**
 
