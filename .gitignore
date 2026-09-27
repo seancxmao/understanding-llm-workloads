@@ -1,4 +1,10 @@
+# macOS General
 .DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[]
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

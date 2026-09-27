@@ -1,7 +1,7 @@
 [project]
-name = "llm-from-scratch"
+name = "understanding-llm-workloads"
 version = "0.1.0"
-description = "Add your description here"
+description = "Understanding LLM workloads"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
